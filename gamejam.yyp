@@ -194,7 +194,7 @@
             "Key": "daab102a-de1a-4c27-aebc-6daa247fa4e1",
             "Value": {
                 "id": "0e720dec-c969-41a3-a6f8-e64f2306d203",
-                "resourcePath": "objects\\timer\\timer.yy",
+                "resourcePath": "objects\\o_timer\\o_timer.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -210,7 +210,7 @@
             "Key": "fb0a91d5-8655-482c-9829-6ea6f8ee6512",
             "Value": {
                 "id": "65256a09-6b63-49a4-bc4d-68a728c54933",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourcePath": "sprites\\s_player_idle\\s_player_idle.yy",
                 "resourceType": "GMSprite"
             }
         }
