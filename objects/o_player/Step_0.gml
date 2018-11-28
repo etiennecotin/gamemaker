@@ -17,11 +17,20 @@ keyKick = keyboard_check(ord("P"));
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 1457F478
-/// @DnDArgument : "code" "/// @description state idle $(13_10)$(13_10)if (state == "idle"){$(13_10)	speedRate = 4;$(13_10)	$(13_10)	$(13_10)}"
+/// @DnDArgument : "code" "/// @description state idle $(13_10)$(13_10)if (state == "idle"){$(13_10)	speedRate = 4;$(13_10)	$(13_10)}$(13_10)"
 /// @description state idle 
 
 if (state == "idle"){
 	speedRate = 4;
 	
-	
+}
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 30E2625F
+/// @DnDArgument : "code" "/// @description State water$(13_10)$(13_10)if (state == "water"){$(13_10)	speedRate = 5;$(13_10)}"
+/// @description State water
+
+if (state == "water"){
+	speedRate = 5;
 }

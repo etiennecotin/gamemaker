@@ -25,6 +25,13 @@ kickNumber = 2;
 /// @DnDArgument : "var" "weaknessRate"
 weaknessRate = 0;
 
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3070F70B
+/// @DnDArgument : "expr" "false"
+/// @DnDArgument : "var" "collide"
+collide = false;
+
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 23C3CC76
