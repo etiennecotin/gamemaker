@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "timer",
     "eventList": [
-        {
-            "id": "60e8ccd1-5ff5-4920-a21e-229b34dd3ede",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "daab102a-de1a-4c27-aebc-6daa247fa4e1"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
