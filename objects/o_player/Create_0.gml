@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 532457D2
-/// @DnDArgument : "expr" ""idle""
+/// @DnDArgument : "expr" ""moving""
 /// @DnDArgument : "var" "state"
-state = "idle";
+state = "moving";
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
@@ -34,8 +34,16 @@ collide = false;
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
+/// @DnDHash : 60FA0930
+/// @DnDArgument : "code" "/// @description Gravity settings$(13_10)$(13_10)gravity = 1;"
+/// @description Gravity settings
+
+gravity = 1;
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
 /// @DnDHash : 23C3CC76
-/// @DnDArgument : "code" "// to do stats$(13_10)$(13_10)objectNumber = 0;"
-// to do stats
+/// @DnDArgument : "code" "/// @description Stats$(13_10)$(13_10)objectNumber = 0;"
+/// @description Stats
 
 objectNumber = 0;
