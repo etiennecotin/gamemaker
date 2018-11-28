@@ -2,7 +2,7 @@
     "id": "daab102a-de1a-4c27-aebc-6daa247fa4e1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "timer",
+    "name": "o_timer",
     "eventList": [
         
     ],
