@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "o_timer",
     "eventList": [
-        
+        {
+            "id": "9f708848-486d-4d59-85ca-ad1f174ced20",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "daab102a-de1a-4c27-aebc-6daa247fa4e1"
+        },
+        {
+            "id": "c87ca55e-0bd0-4986-a389-5391bffaeba9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "daab102a-de1a-4c27-aebc-6daa247fa4e1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

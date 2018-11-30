@@ -8,7 +8,9 @@
         "4356814e-4107-403e-ba68-7182d2af224c",
         "765f200d-d8be-41e0-afdf-4f4f179dc2d4",
         "1bff25fa-5c0b-49e4-96e4-e2853a9c037e",
-        "1d88c39b-fd39-40ca-b149-51cd09427788"
+        "1d88c39b-fd39-40ca-b149-51cd09427788",
+        "4ce74352-150a-4c19-b37c-ca9b6c26bbb3",
+        "509ae2c6-8c24-4534-9a6c-b66ea25e9761"
     ],
     "filterType": "GMObject",
     "folderName": "elements",

@@ -1,16 +1,15 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 532457D2
-/// @DnDArgument : "expr" ""moving""
+/// @DnDArgument : "expr" ""idle""
 /// @DnDArgument : "var" "state"
-state = "moving";
+state = "idle";
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 6E910603
-/// @DnDArgument : "expr" "4"
 /// @DnDArgument : "var" "speedRate"
-speedRate = 4;
+speedRate = 0;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
